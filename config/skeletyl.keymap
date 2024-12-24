@@ -1,8 +1,0 @@
-/*
- * Copyright (c) 2020 The ZMK Contributors
- *
- * SPDX-License-Identifier: MIT
- */
-
-/* source the main keymap */
-#include "base.keymap"
